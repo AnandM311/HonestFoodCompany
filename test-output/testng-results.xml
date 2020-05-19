@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="55078" started-at="2020-05-16T09:55:24Z" finished-at="2020-05-16T09:56:19Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="55078" started-at="2020-05-16T09:55:24Z" finished-at="2020-05-16T09:56:19Z">
+      <class name="com.test.qa.test.HandlingDynamicElements">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.test.qa.test.HandlingDynamicElements@4678c730]" name="setUp" is-config="true" duration-ms="8243" started-at="2020-05-16T15:25:24Z" finished-at="2020-05-16T15:25:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="titleVerifaction()[pri:1, instance:com.test.qa.test.HandlingDynamicElements@4678c730]" name="titleVerifaction" duration-ms="31" started-at="2020-05-16T15:25:33Z" finished-at="2020-05-16T15:25:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- titleVerifaction -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.test.qa.test.HandlingDynamicElements@4678c730]" name="closeBrowser" is-config="true" duration-ms="342" started-at="2020-05-16T15:25:33Z" finished-at="2020-05-16T15:25:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.test.qa.test.HandlingDynamicElements@4678c730]" name="setUp" is-config="true" duration-ms="5477" started-at="2020-05-16T15:25:33Z" finished-at="2020-05-16T15:25:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifySerachbox()[pri:2, instance:com.test.qa.test.HandlingDynamicElements@4678c730]" name="verifySerachbox" duration-ms="207" started-at="2020-05-16T15:25:38Z" finished-at="2020-05-16T15:25:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySerachbox -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.test.qa.test.HandlingDynamicElements@4678c730]" name="closeBrowser" is-config="true" duration-ms="314" started-at="2020-05-16T15:25:39Z" finished-at="2020-05-16T15:25:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.test.qa.test.HandlingDynamicElements@4678c730]" name="setUp" is-config="true" duration-ms="4071" started-at="2020-05-16T15:25:39Z" finished-at="2020-05-16T15:25:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyEmptyQuery()[pri:3, instance:com.test.qa.test.HandlingDynamicElements@4678c730]" name="verifyEmptyQuery" duration-ms="6148" started-at="2020-05-16T15:25:43Z" finished-at="2020-05-16T15:25:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyEmptyQuery -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.test.qa.test.HandlingDynamicElements@4678c730]" name="closeBrowser" is-config="true" duration-ms="170" started-at="2020-05-16T15:25:49Z" finished-at="2020-05-16T15:25:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.test.qa.test.HandlingDynamicElements@4678c730]" name="setUp" is-config="true" duration-ms="5970" started-at="2020-05-16T15:25:49Z" finished-at="2020-05-16T15:25:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyResult()[pri:4, instance:com.test.qa.test.HandlingDynamicElements@4678c730]" name="verifyResult" duration-ms="704" started-at="2020-05-16T15:25:55Z" finished-at="2020-05-16T15:25:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyResult -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.test.qa.test.HandlingDynamicElements@4678c730]" name="closeBrowser" is-config="true" duration-ms="761" started-at="2020-05-16T15:25:56Z" finished-at="2020-05-16T15:25:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.test.qa.test.HandlingDynamicElements@4678c730]" name="setUp" is-config="true" duration-ms="4842" started-at="2020-05-16T15:25:57Z" finished-at="2020-05-16T15:26:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyNoResult()[pri:5, instance:com.test.qa.test.HandlingDynamicElements@4678c730]" name="verifyNoResult" duration-ms="5462" started-at="2020-05-16T15:26:02Z" finished-at="2020-05-16T15:26:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyNoResult -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.test.qa.test.HandlingDynamicElements@4678c730]" name="closeBrowser" is-config="true" duration-ms="346" started-at="2020-05-16T15:26:07Z" finished-at="2020-05-16T15:26:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.test.qa.test.HandlingDynamicElements@4678c730]" name="setUp" is-config="true" duration-ms="5938" started-at="2020-05-16T15:26:07Z" finished-at="2020-05-16T15:26:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifySingleResult()[pri:6, instance:com.test.qa.test.HandlingDynamicElements@4678c730]" name="verifySingleResult" duration-ms="5594" started-at="2020-05-16T15:26:13Z" finished-at="2020-05-16T15:26:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySingleResult -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.test.qa.test.HandlingDynamicElements@4678c730]" name="closeBrowser" is-config="true" duration-ms="394" started-at="2020-05-16T15:26:19Z" finished-at="2020-05-16T15:26:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.test.qa.test.HandlingDynamicElements -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
